@@ -1,2 +1,2 @@
 # locus
-Place rating with different categories
+Location quality metrics with Geocoder and Reverse Geocoder API
