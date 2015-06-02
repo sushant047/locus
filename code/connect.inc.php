@@ -1,9 +1,9 @@
 <?php
 	$host='localhost';
-	$user='root';
+	$user='';
 	$password='';
 
-	$database="stayzilla";
+	$database="";
 	$conn=mysql_connect($host,$user,$password);
 
 	if(!$conn){
